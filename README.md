@@ -1,5 +1,5 @@
 # Proyecto-Final-Progra-lll
-segundo avance
+Segundo Avance
 
 Nombre del proyecto: CineLand
 
